@@ -1,2 +1,5 @@
 ﻿  FileName.cpp
+D:\teme algoritmi\tema 1\x&0\FileName.cpp(200,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\teme algoritmi\tema 1\x&0\FileName.cpp(204,35): warning C4101: 'calculatorY': unreferenced local variable
+D:\teme algoritmi\tema 1\x&0\FileName.cpp(204,22): warning C4101: 'calculatorX': unreferenced local variable
   x&0.vcxproj -> D:\teme algoritmi\tema 1\x&0\x64\Debug\x&0.exe
