@@ -1,0 +1,80 @@
+Enter your name: 
+cristi
+Enter the character you want to play with (x or o): 
+x
+introduce coordinates: 
+00
+[cristi]:
+_______
+|x| | |
+-------
+| | | |
+-------
+| | | |
+-------
+[Computer]:
+_______
+|x| | |
+-------
+| | | |
+-------
+|0| | |
+-------
+introduce coordinates: 
+20
+The position is already taken, please use another one
+introduce coordinates: 
+22
+[cristi]:
+_______
+|x| | |
+-------
+| | | |
+-------
+|0| |x|
+-------
+[Computer]:
+_______
+|x|0| |
+-------
+| | | |
+-------
+|0| |x|
+-------
+introduce coordinates: 
+10
+[cristi]:
+_______
+|x|0| |
+-------
+|x| | |
+-------
+|0| |x|
+-------
+[Computer]:
+_______
+|x|0| |
+-------
+|x| | |
+-------
+|0|0|x|
+-------
+introduce coordinates: 
+02
+[cristi]:
+_______
+|x|0|x|
+-------
+|x| | |
+-------
+|0|0|x|
+-------
+[Computer]:
+_______
+|x|0|x|
+-------
+|x|0| |
+-------
+|0|0|x|
+-------
+Computer a castigat
